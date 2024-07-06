@@ -1,6 +1,9 @@
     # Currrency.py
     #### Video Demo:  https://youtu.be/FwzK3-bviAI
     #### Description:
+    Add the api key to the key variable in the currency_converter.py file. 
+    Run pytest on the test_currency_converter.py to make sure everything is working.
+    
     The thing from CS50P that stuck out most to me was using APIS and how diffent applications can use the internet to send data to each other so I would like to intergrate that in my project. In addition I am plnning several overseas trips and the currency conversion has been a hassel for me. So i decided to wite a programme with a CLI interface to help me with this problem.
 
     I first started the porject with writting psudocode on how I want the flow of the programe to go. I wanted to user to be promted for the currency they currently have, then the amount they have in that currency, and lastly the cuurency they want to convert to. 
