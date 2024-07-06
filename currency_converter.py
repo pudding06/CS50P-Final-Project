@@ -3,7 +3,7 @@ import tabulate
 from freecurrencyapi import Client
 
 # Authentication key for getfreecurrencies API
-key = "fca_live_LiEDC9ZCueaLNrSkLJgqVeitOfM2EQYizV5XoZPx"
+key = "<input api key here>"
 
 # Creating a client object and use the .currencies() method to request the availible currencies supported by the API
 client = Client(key)
