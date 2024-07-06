@@ -1,0 +1,3 @@
+pip install freecurrencyapi
+pip install tabulate
+pip install requests

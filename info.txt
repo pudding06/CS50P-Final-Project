@@ -1,0 +1,20 @@
+Project’s title: Real Time Currency Converter
+Name: Randall
+GitHub username: pudding06
+edX username: Koh Shao Hong Randall
+City, Country: Singapore, Singapore
+Date: 1/July/2024
+
+
+Description of my Project:
+When the program first runs, a table of the names of the valid currencies for conversion will be displayed as well as their symbols.
+    1. Type in symbol the currency you want currently have and convert.
+    2. Type in the amount of currency you have.
+    3. Type in the symbol currency you want to convert too
+    4. The information will then be displayed
+
+
+In this video I will be showing the conversion of SGD to USD, the exhage rate is around 0.738 at the time of this recording
+I will also be demostrating EUR to USD the exchage rate is around 1.08 at the time of this recording
+Error Checking will also be demostarted in the video
+
